@@ -21,7 +21,7 @@ Consider the following number: 319072356
 
 ```
 import bsn
-a = bsn()
+a = bsn.bsn()
 ```
 
 ### Validate number
