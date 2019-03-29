@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="bsn",
-    version="0.0.1",
+    version="0.0.2",
     author="Marc Enthoven",
     author_email="marc_enthoven@hotmail.com",
     description="This package can be used to test whether a number is a bsn (Burger Service Number, Dutch Social Security Number), but it can also generate the numbers",
