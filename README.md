@@ -17,6 +17,12 @@ Consider the following number: 319072356
 154 mod 11 = 0
 ```
 
+## Install bsn
+
+Run from Command Line:
+
+`pip install bsn`
+
 ## Initiate the module and create instance
 
 ```
@@ -36,4 +42,6 @@ a.validate_bsn(number)
 a.generate_bsn(n)
 
 ```
+
+
 
